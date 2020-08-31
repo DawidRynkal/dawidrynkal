@@ -4,7 +4,7 @@
 - 🔭 I’m currently looking for a job !
 - 🌱 I’m currently learning everything about front-end 🤣
 - 🥅 2020 Goals: Get the first job in IT, learn as best i can,
-- ⚡ Fun fact: I love to draw and play guitar / drums
+
 
 ### Check my linkdin profile:
 <a href="https://www.linkedin.com/in/dawid-rynkal/">
@@ -40,9 +40,7 @@
 
 ## Budget app ⚡⚡⚡ : 
 
-## Demo link: 
-
-## Repository link: 
+## Repository link: https://github.com/DawidRynkal/BudgetApp
 
 ![budget1](https://user-images.githubusercontent.com/50556211/91590270-65f3e580-e95b-11ea-8201-ae0b9d878587.png)
 
