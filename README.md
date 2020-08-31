@@ -46,7 +46,6 @@
 
 ![budget1](https://user-images.githubusercontent.com/50556211/91590270-65f3e580-e95b-11ea-8201-ae0b9d878587.png)
 
-![budget5](https://user-images.githubusercontent.com/50556211/91590280-6a200300-e95b-11ea-9c97-de27315b0116.png)
 
 ---
 
@@ -56,9 +55,68 @@
 
 ## Repository link: https://github.com/DawidRynkal/RecipeApp-react
 
-![](https://user-images.githubusercontent.com/50556211/86945772-bd3ebc00-c149-11ea-898a-0f22f84a816b.png)
+---
 
-![](https://user-images.githubusercontent.com/50556211/86945791-c29c0680-c149-11ea-95d7-4f819b52ecfb.png)
+## MemoryGame ⚡⚡⚡ :
 
-![](https://user-images.githubusercontent.com/50556211/86945800-c4fe6080-c149-11ea-84d4-4b094d989613.png)
+## Repository link: https://github.com/DawidRynkal/MemoryGame
+
+---
+
+## Weather App ⚡⚡⚡ :
+
+## Demo link: https://dawidrynkal.github.io/WeatherApp-react/
+
+## Repository link: https://github.com/DawidRynkal/WeatherApp-react
+
+---
+
+## YouTube clone app ⚡⚡⚡ :
+
+## Demo link: https://dawidrynkal.github.io/YouTube-clone/
+
+## Repository link: https://github.com/DawidRynkal/YouTube-clone
+
+---
+
+## Movie database app ⚡⚡⚡ :
+
+## Repository link: https://github.com/DawidRynkal/MovieDatabase
+
+---
+
+## FlexboxGallery ⚡⚡⚡ :
+
+## Repository link: https://github.com/DawidRynkal/FlexboxGallery
+
+---
+
+## ShoppingCart ⚡⚡⚡ :
+
+## Demo link: https://dawidrynkal.github.io/ShoppingCart/
+
+## Repository link: https://github.com/DawidRynkal/ShoppingCart
+
+---
+
+## Clock CSS ⚡⚡⚡ :
+
+## Repository link: https://github.com/DawidRynkal/Clock
+
+---
+
+## Speech-Generator ⚡⚡⚡ :
+
+## Repository link: https://github.com/DawidRynkal/Speech-Generator
+
+---
+
+## ToDoApp ⚡⚡⚡ :
+
+## Demo link: https://dawidrynkal.github.io/ToDoApp/
+
+## Repository link: https://github.com/DawidRynkal/ToDoApp
+
+---
+
 
