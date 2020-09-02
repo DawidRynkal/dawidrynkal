@@ -58,6 +58,7 @@
 ---
 
 ## MemoryGame ⚡⚡⚡ :
+## Demo link: https://dawidrynkal.github.io/MemoryGame/
 
 ## Repository link: https://github.com/DawidRynkal/MemoryGame
 
@@ -86,6 +87,7 @@
 ---
 
 ## FlexboxGallery ⚡⚡⚡ :
+## Demo link: https://dawidrynkal.github.io/FlexboxGallery/
 
 ## Repository link: https://github.com/DawidRynkal/FlexboxGallery
 
@@ -100,12 +102,14 @@
 ---
 
 ## Clock CSS ⚡⚡⚡ :
+## Demo link: https://dawidrynkal.github.io/Clock/
 
 ## Repository link: https://github.com/DawidRynkal/Clock
 
 ---
 
 ## Speech-Generator ⚡⚡⚡ :
+## Demo link: https://dawidrynkal.github.io/Speech-Generator/
 
 ## Repository link: https://github.com/DawidRynkal/Speech-Generator
 
