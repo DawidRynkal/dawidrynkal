@@ -40,8 +40,6 @@
 
 ## Budget app ⚡⚡⚡ : 
 
-## Demo link: https://dawidrynkal.github.io/BudgetApp/
-
 ## Repository link: https://github.com/DawidRynkal/BudgetApp
 
 ![budget1](https://user-images.githubusercontent.com/50556211/91590270-65f3e580-e95b-11ea-8201-ae0b9d878587.png)
