@@ -4,13 +4,21 @@
 - 🔭 I’m currently looking for a job !
 - 🌱 I’m currently learning everything about front-end 🤣
 - 🥅 2020 Goals: Get the first job in IT, learn to: 
-                 - Node.js
-                 - Gatsby.js
-                 - testing
+                 <br/>
+                 - Node.js,
+                 <br/>
+                 - Gatsby.js,
+                  <br/>
+                 - testing,
+                  <br/>
                  - databases,
+                  <br/>
                  - freamworks e.g Express.js,
+                  <br/>
                  - GraphQL, 
+                  <br/>
                  - good practises of coding, 
+                  <br/>
 👋 Its is possible that i have learned some of this things since i listed these goals.🤣
 
 
