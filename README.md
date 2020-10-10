@@ -63,6 +63,15 @@
 
 ---
 
+## Note app ⚡⚡⚡ : 
+
+## Repository link: https://github.com/DawidRynkal/NoteApp
+
+![Screenshot_1](https://user-images.githubusercontent.com/50556211/95652860-75d31d80-0af4-11eb-930d-bb31a05fd0ce.png)
+
+
+---
+
 ## RecipeApp ⚡⚡⚡ :
 
 ## Demo link: https://dawidrynkal.github.io/RecipeApp-react/
