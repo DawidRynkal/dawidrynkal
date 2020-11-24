@@ -143,12 +143,23 @@ axios,
 
 ## Repository link: https://github.com/DawidRynkal/RecipeApp-react
 
+![firstView](https://user-images.githubusercontent.com/50556211/86945772-bd3ebc00-c149-11ea-898a-0f22f84a816b.png)
 ---
 
 ## MemoryGame ⚡⚡⚡ :
 ## Demo link: https://dawidrynkal.github.io/MemoryGame/
 
 ## Repository link: https://github.com/DawidRynkal/MemoryGame
+Start memory for 2 seconds.
+-------------------------------
+
+![memory0](https://user-images.githubusercontent.com/50556211/80950203-b5833400-8df5-11ea-95a7-9758ed270760.png)
+
+After two seconds you can start searching
+----------------------------------------------
+
+![memory1](https://user-images.githubusercontent.com/50556211/80950324-eb281d00-8df5-11ea-91ce-5fc608c3ac58.png)
+
 
 ---
 
@@ -158,6 +169,7 @@ axios,
 
 ## Repository link: https://github.com/DawidRynkal/WeatherApp-react
 
+![weatherApp_firstFetch](https://user-images.githubusercontent.com/50556211/86943290-8adf8f80-c146-11ea-87f8-9e2a634d8b68.png) ![weatherApp_secondFetch](https://user-images.githubusercontent.com/50556211/86943300-8dda8000-c146-11ea-8bf0-e4e6f0e505d0.png)
 ---
 
 ## YouTube clone app ⚡⚡⚡ :
@@ -166,11 +178,18 @@ axios,
 
 ## Repository link: https://github.com/DawidRynkal/YouTube-clone
 
+![Screenshot_1](https://user-images.githubusercontent.com/50556211/88693759-f8f0f400-d0ff-11ea-84f5-278ee8fad9b7.png)
+
 ---
 
 ## Movie database app ⚡⚡⚡ :
 
 ## Repository link: https://github.com/DawidRynkal/MovieDatabase
+## Result:
+![Screenshot_2](https://user-images.githubusercontent.com/50556211/87340085-e72c2000-c547-11ea-8c05-d62d923bfa97.png)
+
+## After click on movie, we can see details: 
+![Screenshot_3](https://user-images.githubusercontent.com/50556211/87340095-e98e7a00-c547-11ea-92df-fb98f520a35f.png)
 
 ---
 
@@ -186,6 +205,8 @@ axios,
 ## Demo link: https://dawidrynkal.github.io/ShoppingCart/
 
 ## Repository link: https://github.com/DawidRynkal/ShoppingCart
+![Screenshot_1](https://user-images.githubusercontent.com/50556211/88314380-22330e00-cd15-11ea-8a09-3c132bbe6bd7.png)
+![Screenshot_2](https://user-images.githubusercontent.com/50556211/88314387-252dfe80-cd15-11ea-8f4c-b22776660f02.png)
 
 ---
 
