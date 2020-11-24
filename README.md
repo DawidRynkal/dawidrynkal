@@ -82,6 +82,16 @@ Terminal
 
 ## Repository link: https://github.com/DawidRynkal/gatsbyPage
 
+### Technologies:
+React,
+Gatsby,
+GraphQl,
+Formik,
+CSS,
+Styled components,
+JavaScript,
+npm,
+
 ![about](https://user-images.githubusercontent.com/50556211/100118627-4f83fa00-2e76-11eb-9459-841ce2817f54.png)
 
 
@@ -91,6 +101,15 @@ Terminal
 ## Budget app ⚡⚡⚡ : 
 
 ## Repository link: https://github.com/DawidRynkal/BudgetApp
+### Technologies:
+React,
+Redux,
+CSS,
+Styled components,
+JavaScript,
+npm,
+AJAX,
+React hooks,
 
 ![budget1](https://user-images.githubusercontent.com/50556211/91590270-65f3e580-e95b-11ea-8201-ae0b9d878587.png)
 
@@ -100,6 +119,18 @@ Terminal
 ## Note app ⚡⚡⚡ : 
 
 ## Repository link: https://github.com/DawidRynkal/NoteApp
+
+### Technologies:
+React,
+Redux,
+CSS,
+Styled components,
+JavaScript,
+npm,
+AJAX,
+React hooks,
+Context API,
+axios,
 
 ![Screenshot_1](https://user-images.githubusercontent.com/50556211/95652860-75d31d80-0af4-11eb-930d-bb31a05fd0ce.png)
 
