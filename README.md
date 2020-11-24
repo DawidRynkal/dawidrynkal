@@ -68,12 +68,25 @@ Git
 GitHub
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 </br>
+Terminal
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
 <br />
 
 # Check my projects:
+
+## Gatsby blog ⚡⚡⚡ : 
+
+## Demo link on Netlify: https://dawrynblog.netlify.app/
+
+## Repository link: https://github.com/DawidRynkal/gatsbyPage
+
+![about](https://user-images.githubusercontent.com/50556211/100118627-4f83fa00-2e76-11eb-9459-841ce2817f54.png)
+
+
+---
+
 
 ## Budget app ⚡⚡⚡ : 
 
