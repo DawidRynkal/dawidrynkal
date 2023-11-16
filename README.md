@@ -1,21 +1,6 @@
 
 ### Hi there, I'm Dawid 👋
 
-- 🔭 I’m currently looking for a job !
-- 🌱 I’m currently learning everything about front-end 🤣
-- 🥅 2020 Goals: Get the first job in IT, learn to: 
-                 <br/>
-                 - Node.js
-                  <br/>
-                 - databases,
-                  <br/>
-                 - freamworks e.g Express.js,
-                  <br/>
-                 - good practises of coding, 
-                  <br/>
-👋 Its is possible that i have learned some of this things since i listed these goals.🤣
-
-
 ### Check my linkdin profile:
 <a href="https://www.linkedin.com/in/dawid-rynkal/">
 <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
